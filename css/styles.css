@@ -1,31 +1,30 @@
 body {
-  margin: 0;
-  font-family: poppins, sans-serif;
-  font-weight: normal;
-}
-
-h1 {
-  font-family: poppins, sans-serif;
-  font-family: 'Merriweather', serif;
-  font-weight: normal;
-  margin-top: 0;
-  padding-top: 1rem;
+  color: black;
+  margin: 50px;
   text-align: center;
+  background-color: #DAEAF1;
+  font-family: 'Outfit', sans-serif;
 }
 
 p {
-  color:white;
-  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
 }
-.top-container {
-  background-color: #FEC260;
-  margin-top: 0;
-  padding-top: 0;
-  border-top: 0;
-  border-color: red;
-  border-width: 40px;
+img {
+  width: 100%;
+  border-radius: 4%;
 }
 
-.mid-container {
-  background-color: red;
+.main-canvas {
+  width: 18%;
+  margin: auto;
+  padding: 8px;
+  background-color: white;
+  border-radius: 4%;
+}
+
+.lower-guide {
+  font-weight: 400;
+  font-size: 11px;
+  color: grey;
 }
